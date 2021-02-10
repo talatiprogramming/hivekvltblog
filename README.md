@@ -1,2 +1,2 @@
 # hivekvltblog
-Access at https://talatiprogramming.github.io/hivekvltblog/pages/post1.html
+Access at https://talatiprogramming.github.io/hivekvltblog/index.html
